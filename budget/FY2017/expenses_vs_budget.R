@@ -9,7 +9,7 @@ d = expenses %>%
 	full_join(budget, by="category")
 
 total = d %>%
-	mutate(total = pmax(cost, budget, na.rm=TRUE))
+	mutate(total = pmax(cost, budget, na.rm=TRUE)) %>%
 	summarize(cost = sum(cost, na.rm=TRUE),
 						budget = sum(budget, na.rm=TRUE),
 						total = sum(total))
