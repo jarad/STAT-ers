@@ -5,7 +5,7 @@ The treasurer's responsibilities are primarily devoted to the financial aspects 
 
 ## Obtain P-card
 
-Put details here...
+Follow instructions [here](http://www.controller.iastate.edu/campusorg/coap-card.htm).
 
 ## Apply for GPSS regular allocations
 
@@ -18,3 +18,5 @@ Together with the executive board, the treasurer should set a yearly budget by S
 ## Keep track of expenses and revenue
 
 The treasurer should keep track of expenses and revenue including the date, amount, and category of the expenditure. 
+When submitting expenses, use one of the budget categories. 
+If an appropriate category does not exist, use "Other" and describe what the expense was for. 
